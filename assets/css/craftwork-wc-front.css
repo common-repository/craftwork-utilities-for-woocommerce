@@ -1,0 +1,9 @@
+.cwut-after-total-summary {
+    padding: 12px;
+    background-color: #ffd9e0;
+    border: 4px dashed #ff3840
+}
+
+.cwut-after-total-summary-text{
+    font-weight: bold;
+}

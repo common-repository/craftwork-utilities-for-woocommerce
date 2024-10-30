@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Craftwork Utilities for Woocommerce\n"
+"POT-Creation-Date: 2021-09-05 15:00+0700\n"
+"PO-Revision-Date: 2021-09-05 15:03+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: craftwork-wc-utilities.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;"
+"__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/class-cwut-core.php:148 includes/class-cwut-core.php:181
+#: includes/class-cwut-settings-page.php:143
+msgid "View Details"
+msgstr "ดูรายละเอียด"
+
+#: includes/class-cwut-core.php:290 includes/class-cwut-settings-page.php:162
+msgid "Order Now"
+msgstr "สั่งซื้อสินค้า"
+
+#: includes/class-cwut-settings-page.php:13
+msgid "Utilities"
+msgstr "Utilities"
+
+#: includes/class-cwut-settings-page.php:25 includes/class-cwut-settings-page.php:531
+msgid "Welcome"
+msgstr "ยินดีต้อนรับ"
+
+#: includes/class-cwut-settings-page.php:26
+msgid "General"
+msgstr "ทั่วไป"
+
+#: includes/class-cwut-settings-page.php:27
+msgid "Product"
+msgstr "สินค้า"
+
+#: includes/class-cwut-settings-page.php:28
+msgid "Account"
+msgstr "การจัดการบัญชี"
+
+#: includes/class-cwut-settings-page.php:29
+msgid "Checkout"
+msgstr "การชำระเงิน"
+
+#: includes/class-cwut-settings-page.php:54
+msgid ""
+"\n"
+"            <h2>Welcome to Craftwork Utilities for Woocommerce</h2>\n"
+"            <div>We provide the following function to make woocommerce more engage with customer.</"
+"div>\n"
+"            <ol>\n"
+"              <li>Replace 'add to cart' with 'view details' buttons.</li>\n"
+"              <li>Replace 'add to cart' text in single product page.</li>\n"
+"              <li>Replace Currency Symbol.</li>\n"
+"              <li>Redirect to checkout page after click add to cart in single product page.</li>\n"
+"              <li>Clear previous cart when click add to cart</li>\n"
+"              <li>Redirect to specific url after woocommerce login</li>\n"
+"              <li>Add Variable Product Custom Fields</li>\n"
+"              <li>And more!</li>\n"
+"            </ol>\n"
+"        "
+msgstr ""
+"\n"
+"<h2>ยินดีต้อนรับสู่ Craftwork Utilities สำหรับ Woocommerce</h2>\n"
+"            <div>เป้าหมายของเราคือ ทำให้ ร้านค้าของคุณ มีส่วนร่วมกับลูกค้ามากขึ้น อาทิเช่น</div>\n"
+"            <ol>\n"
+"              <li>แทนที่ปุ่ม ‘เพิ่มในรถเข็น’ ด้วยปุ่ม ‘ดูรายละเอียด’</li>\n"
+"              <li>แทนที่ข้อความ ‘เพิ่มในรถเข็น’ ในหน้าสินค้าเดียว</li>\n"
+"              <li>แทนที่สัญลักษณ์สกุลเงิน ให้เป็นไปตามที่เราต้องการ</li>\n"
+"              <li>เปลี่ยนเส้นทางไปยังหน้าชําระเงินหลังจากคลิกเพิ่มรถเข็นในหน้าสินค้า</li>\n"
+"              <li>ล้างจำนวนสินค้าในรถเข็นก่อนหน้า เมื่อคลิกเพิ่มในรถเข็นของสินค้าชิ้นใหม่</li>\n"
+"              <li>เปลี่ยนเส้นทางไปยัง URL ที่เฉพาะเจาะจงหลังจากเข้าสู่ระบบ woocommerce</li>\n"
+"              <li>และ อื่นๆ อีกมากมาย</li>\n"
+"            </ol>\n"
+"        "
+
+#: includes/class-cwut-settings-page.php:94
+msgid "Enhanced general options"
+msgstr "เพิ่มเติมความสามารถทั่วไป"
+
+#: includes/class-cwut-settings-page.php:96
+msgid "Enhance your general options in woocommerce"
+msgstr "เพิ่มเติมความสามารถทั่วไป ของ Woocommerce"
+
+#: includes/class-cwut-settings-page.php:100
+msgid "Replace currency symbol"
+msgstr "แทนที่สัญลักษณ์สกุลเงิน"
+
+#: includes/class-cwut-settings-page.php:101
+msgid "This option will replace current currency symbol with provided text"
+msgstr "ตัวเลือกนี้ จะแทนที่สัญลักษณ์สกุลเงินปัจจุบัน ด้วยข้อความที่ระบุ"
+
+#: includes/class-cwut-settings-page.php:107
+msgid "Text for currency symbol"
+msgstr "ข้อความสําหรับสัญลักษณ์สกุลเงิน"
+
+#: includes/class-cwut-settings-page.php:108
+msgid "This option will use as text for currency symbol"
+msgstr "ตัวเลือกนี้จะใช้เป็นสัญลักษณ์สกุลเงิน ที่จะแสดงหน้าเว็บไซต์"
+
+#: includes/class-cwut-settings-page.php:112
+msgid "Currency"
+msgstr "สกุลเงิน"
+
+#: includes/class-cwut-settings-page.php:125
+msgid "Enhance product options"
+msgstr "เพิ่มความสามารถให้กับแคตตาล็อกสินค้า"
+
+#: includes/class-cwut-settings-page.php:127
+msgid "Enhance your product display."
+msgstr "ปรับปรุงการแสดงผลสินค้าของคุณ."
+
+#: includes/class-cwut-settings-page.php:131
+msgid "Replace 'add to cart' button"
+msgstr "แทนที่ปุ่ม 'เพิ่มในรถเข็น'"
+
+#: includes/class-cwut-settings-page.php:132
+msgid ""
+"This option will replace 'add to cart' button with 'view details' button.This option will apply on "
+"archive/shop pages and woocommerce product items loop."
+msgstr ""
+"ตัวเลือกนี้จะแทนที่ปุ่ม 'เพิ่มในรถเข็น' ด้วยปุ่ม 'ดูรายละเอียด' ตัวเลือกนี้จะใช้กับหน้า Archive/หน้าร้านค้าและลูปรายการสินค้า "
+"Woocommerce."
+
+#: includes/class-cwut-settings-page.php:138
+msgid "Text for 'view details' button"
+msgstr "ข้อความสําหรับปุ่ม 'ดูรายละเอียด'"
+
+#: includes/class-cwut-settings-page.php:139
+msgid "This option will use as text for 'view details' button otherwise it use 'view details'"
+msgstr "ตัวเลือกนี้จะใช้เป็นข้อความสําหรับปุ่ม 'ดูรายละเอียด' ถ้าไม่มีจะใช้ 'ดูรายละเอียด'"
+
+#: includes/class-cwut-settings-page.php:149
+msgid "Replace 'add to cart' text on single product"
+msgstr "แทนที่ข้อความ 'เพิ่มในรถเข็น' ในหน้าเดี่ยวแสดงสินค้า"
+
+#: includes/class-cwut-settings-page.php:150
+msgid "This option will replace 'add to cart' text on single product page."
+msgstr "ตัวเลือกนี้จะแทนที่ข้อความ 'เพิ่มในรถเข็น' ในหน้าเดี่ยวของสินค้า."
+
+#: includes/class-cwut-settings-page.php:157
+msgid "Text for replace 'add to cart' on single product"
+msgstr "ข้อความสําหรับแทนที่คำว่า 'เพิ่มในรถเข็น' ในหน้าเดี่ยวสินค้า"
+
+#: includes/class-cwut-settings-page.php:158
+msgid "This option will use as text for 'add to cart' button otherwise it will use 'Order Now'"
+msgstr "ตัวเลือกนี้จะใช้เป็นข้อความสําหรับปุ่ม 'เพิ่มในรถเข็น' ถ้าไม่มีจะใช้ 'สั่งซื้อเดี๋ยวนี้'"
+
+#: includes/class-cwut-settings-page.php:173
+msgid "Enhance product variations"
+msgstr "เพิ่มเติมความสามารถหมวดทั่วไป"
+
+#: includes/class-cwut-settings-page.php:175
+msgid "Enhance product variations."
+msgstr "เพิ่มเติมความสามารถหมวดทั่วไป."
+
+#: includes/class-cwut-settings-page.php:180
+msgid "Enable variation custom fields"
+msgstr "เปิดใช้งานฟิลด์แบบกําหนดเองของ สินค้ามีตัวเลือก"
+
+#: includes/class-cwut-settings-page.php:181
+msgid "This option will enabled custom fields in product variation setup box."
+msgstr "ตัวเลือกนี้จะเปิดใช้งานฟิลด์แบบกําหนดเองในกล่องการตั้งค่าสินค้าแบบมีตัวเลือก."
+
+#: includes/class-cwut-settings-page.php:193
+msgid "Custom Field 1"
+msgstr "ฟิลด์แบบกําหนดเอง 1"
+
+#: includes/class-cwut-settings-page.php:199 includes/class-cwut-settings-page.php:204
+msgid "Custom Field 1 Label"
+msgstr "ป้ายชื่อฟิลด์กําหนดเอง 1"
+
+#: includes/class-cwut-settings-page.php:200
+msgid "This is the label of custom field 1"
+msgstr "นี่คือป้ายชื่อของฟิลด์แบบกําหนดเอง 1"
+
+#: includes/class-cwut-settings-page.php:210
+msgid "Show custom field 1 Label"
+msgstr "แสดงป้ายชื่อเขตข้อมูลแบบกําหนดเอง 1"
+
+#: includes/class-cwut-settings-page.php:211 includes/class-cwut-settings-page.php:281
+#: includes/class-cwut-settings-page.php:351
+msgid "Show custom field label in single product page."
+msgstr "แสดงป้ายชื่อฟิลด์ที่กําหนดเองในหน้าเดี่ยวของสินค้า."
+
+#: includes/class-cwut-settings-page.php:218
+msgid "Custom Field 1 Type"
+msgstr "ชนิดฟิลด์กําหนดเอง 1"
+
+#: includes/class-cwut-settings-page.php:219
+msgid "This is the type of custom field 1"
+msgstr "นี่คือชนิดของฟิลด์ที่กําหนดเอง 1"
+
+#: includes/class-cwut-settings-page.php:226 includes/class-cwut-settings-page.php:296
+#: includes/class-cwut-settings-page.php:366
+msgid "Text"
+msgstr "ข้อความ"
+
+#: includes/class-cwut-settings-page.php:227 includes/class-cwut-settings-page.php:297
+#: includes/class-cwut-settings-page.php:367
+msgid "Textarea"
+msgstr "ข้อความหลายบรรทัด"
+
+#: includes/class-cwut-settings-page.php:228 includes/class-cwut-settings-page.php:298
+#: includes/class-cwut-settings-page.php:368
+msgid "Radio"
+msgstr "ตัวเลือกแบบเรดิโอ"
+
+#: includes/class-cwut-settings-page.php:229 includes/class-cwut-settings-page.php:299
+#: includes/class-cwut-settings-page.php:369
+msgid "Select"
+msgstr "ตัวเลือกแบบดรอปดาวน์"
+
+#: includes/class-cwut-settings-page.php:236
+msgid "Custom Field 1 List Values"
+msgstr "รายการตัวเลือกฟิลด์แบบกําหนดเอง 1"
+
+#: includes/class-cwut-settings-page.php:237 includes/class-cwut-settings-page.php:307
+#: includes/class-cwut-settings-page.php:377
+msgid "This is value for input type radio and select. separate value with comma (,)"
+msgstr "ค่านี้เป็นค่าสําหรับประเภทอินพุตเรดิโอ และ ดรอปดาวน์ แยกค่าด้วยเครื่องหมายจุลภาค (, )"
+
+#: includes/class-cwut-settings-page.php:241 includes/class-cwut-settings-page.php:311
+#: includes/class-cwut-settings-page.php:381
+msgid "Use comma (,) to separate value"
+msgstr "ใช้เครื่องหมายจุลภาค (, ) เพื่อแยกค่า"
+
+#: includes/class-cwut-settings-page.php:247
+msgid "Custom Field 1 Default Value"
+msgstr "ค่าเริ่มต้นของฟิลด์แบบกําหนดเอง 1"
+
+#: includes/class-cwut-settings-page.php:248 includes/class-cwut-settings-page.php:318
+#: includes/class-cwut-settings-page.php:388
+msgid ""
+"Default value will use if no value presented. If no default value set, woocommerce will not "
+"display this custom field."
+msgstr "ค่าเริ่มต้นจะใช้ เมื่อไม่มีการระบุค่า ถ้าไม่มีค่าเริ่มต้น Woocommerce จะไม่แสดงช่องที่กําหนดเองนี้."
+
+#: includes/class-cwut-settings-page.php:252 includes/class-cwut-settings-page.php:322
+#: includes/class-cwut-settings-page.php:392
+msgid "Please specify default value"
+msgstr "โปรดระบุค่าเริ่มต้น"
+
+#: includes/class-cwut-settings-page.php:263
+msgid "Custom Field 2"
+msgstr "ฟิลด์แบบกําหนดเอง 2"
+
+#: includes/class-cwut-settings-page.php:269 includes/class-cwut-settings-page.php:274
+msgid "Custom Field 2 Label"
+msgstr "ป้ายชื่อฟิลด์กําหนดเอง 2"
+
+#: includes/class-cwut-settings-page.php:270
+msgid "This is the label of custom field 2"
+msgstr "นี่คือป้ายชื่อของฟิลด์แบบกําหนดเอง 2"
+
+#: includes/class-cwut-settings-page.php:280
+msgid "Show custom field 2 Label"
+msgstr "แสดงป้ายชื่อฟิลด์กําหนดเอง 2"
+
+#: includes/class-cwut-settings-page.php:288
+msgid "Custom Field 2 Type"
+msgstr "ชนิดฟิลด์กําหนดเอง 2"
+
+#: includes/class-cwut-settings-page.php:289
+msgid "This is the type of custom field 2"
+msgstr "นี่คือชนิดของฟิลด์แบบกําหนดเอง 2"
+
+#: includes/class-cwut-settings-page.php:306
+msgid "Custom Field 2 List Values"
+msgstr "รายการตัวเลือกฟิลด์แบบกําหนดเอง 2"
+
+#: includes/class-cwut-settings-page.php:317
+msgid "Custom Field 2 Default Value"
+msgstr "ค่าเริ่มต้นของฟิลด์แบบกําหนดเอง 2"
+
+#: includes/class-cwut-settings-page.php:333
+msgid "Custom Field 3"
+msgstr "ฟิลด์แบบกําหนดเอง 3"
+
+#: includes/class-cwut-settings-page.php:339 includes/class-cwut-settings-page.php:344
+msgid "Custom Field 3 Label"
+msgstr "ป้ายชื่อฟิลด์กําหนดเอง 3"
+
+#: includes/class-cwut-settings-page.php:340
+msgid "This is the label of custom field 3"
+msgstr "นี่คือป้ายชื่อของฟิลด์แบบกําหนดเอง 3"
+
+#: includes/class-cwut-settings-page.php:350
+msgid "Show custom field 3 Label"
+msgstr "แสดงป้ายชื่อฟิลด์กําหนดเอง 3"
+
+#: includes/class-cwut-settings-page.php:358
+msgid "Custom Field 3 Type"
+msgstr "ชนิดฟิลด์กําหนดเอง 3"
+
+#: includes/class-cwut-settings-page.php:359
+msgid "This is the type of custom field 3"
+msgstr "ชนิดฟิลด์กําหนดเอง 3"
+
+#: includes/class-cwut-settings-page.php:376
+msgid "Custom Field 3 List Values"
+msgstr "รายการตัวเลือกฟิลด์แบบกําหนดเอง 3"
+
+#: includes/class-cwut-settings-page.php:387
+msgid "Custom Field 3 Default Value"
+msgstr "ค่าเริ่มต้นของฟิลด์แบบกําหนดเอง 3"
+
+#: includes/class-cwut-settings-page.php:406
+msgid "Enhanced Account Flow"
+msgstr "เพิ่มเติมความสามารถเส้นทางของ Account"
+
+#: includes/class-cwut-settings-page.php:413
+msgid "Enable redirect after LOGIN"
+msgstr "เปิดใช้งานการเปลี่ยนเส้นทางหลังจาก LOGIN"
+
+#: includes/class-cwut-settings-page.php:414
+msgid "This option will redirect user to specific url after login"
+msgstr "ตัวเลือกนี้จะเปลี่ยนเส้นทางผู้ใช้ไปยัง URL ที่กำหนดหลังจากเข้าสู่ระบบ"
+
+#: includes/class-cwut-settings-page.php:421
+msgid "Custom URL for redirect button"
+msgstr "ตั้งค่า URL ที่ Woocommerce จะไปหลังจากเข้าสู่ระบบ"
+
+#: includes/class-cwut-settings-page.php:422
+msgid "This option will use as url for redirect user after login"
+msgstr "ตัวเลือกนี้จะใช้เป็น URL สําหรับการเปลี่ยนเส้นทางหลังจากเข้าสู่ระบบ"
+
+#: includes/class-cwut-settings-page.php:426
+msgid "URL"
+msgstr "URL"
+
+#: includes/class-cwut-settings-page.php:439
+msgid "Enhance Checkout Flow"
+msgstr "เพิ่มความสามารถเส้นทางการชำระเงิน"
+
+#: includes/class-cwut-settings-page.php:446
+msgid "Enable redirect to checkout"
+msgstr "เปิดใช้งานการเปลี่ยนเส้นทางไปยังการชําระเงิน"
+
+#: includes/class-cwut-settings-page.php:447
+msgid "This option will redirect user to checkout page after click add to cart."
+msgstr "ตัวเลือกนี้จะเปลี่ยนเส้นทางผู้ใช้ไปยังหน้าเช็คเอาท์ทันทีหลังจากคลิกเพิ่มในรถเข็น."
+
+#: includes/class-cwut-settings-page.php:454
+msgid "Clear cart when click add to cart"
+msgstr "ล้างรถเข็นก่อนหน้าเมื่อ คลิกเพิ่มในรถเข็นครั้งใหม่"
+
+#: includes/class-cwut-settings-page.php:455
+msgid ""
+"This option will clear old cart items when click add to cart.Useful with redirect to checkout "
+"option."
+msgstr ""
+"ตัวเลือกนี้จะล้างรายการรถเข็นเก่า เมื่อคลิกเพิ่มในรถเข็นอีกครั้ง มีประโยชน์กับการเปลี่ยนเส้นทางไปยังตัวเลือกการชําระเงิน."
+
+#: includes/class-cwut-settings-page.php:462
+msgid "Enable checkout total summary message"
+msgstr "เปิดใช้งานข้อความใต้ สรุปการเช็คเอาท์ทั้งหมด"
+
+#: includes/class-cwut-settings-page.php:463
+msgid "This option will enable message on checkout page total summary area."
+msgstr "ตัวเลือกนี้จะเปิดใช้งานข้อความบนพื้นที่ ใต้สรุปยอดรวมของหน้าการชําระเงิน."
+
+#: includes/class-cwut-settings-page.php:470
+msgid "Checkout Total Summary Message"
+msgstr "ข้อความใต้สรุปการชําระเงินทั้งหมด"
+
+#: includes/class-cwut-settings-page.php:471
+msgid "This is the message for checkout page total summary area"
+msgstr "นี่คือข้อความสําหรับพื้นที่ใต้สรุปการชําระเงิน"
+
+#: includes/class-cwut-settings-page.php:475
+msgid "Your Message"
+msgstr "ข้อความของคุณ"
+
+#: includes/class-cwut-settings-page.php:482
+msgid "Checkout Total Summary Message Margin Top"
+msgstr "ระยะห่างจากด้านบนของข้อความใต้สรุปการชำระเงิน"
+
+#: includes/class-cwut-settings-page.php:483
+msgid "Margin top in pixel for summary message area."
+msgstr "ระยะห่างจากด้านบนของข้อความใต้พื้นที่สรุปการชำระเงิน."
+
+#: includes/class-cwut-settings-page.php:487 includes/class-cwut-settings-page.php:498
+msgid "Please put value in numeric"
+msgstr "โปรดระบุค่าเป็นตัวเลขเท่านั้น"
+
+#: includes/class-cwut-settings-page.php:493
+msgid "Checkout Total Summary Message Margin Bottom"
+msgstr "ระยะห่างจากด้านล่างของข้อความใต้สรุปการชำระเงิน"
+
+#: includes/class-cwut-settings-page.php:494
+msgid "Margin bottom in pixel for summary message area."
+msgstr "ระยะห่างจากด้านล่างของข้อความใต้พื้นที่สรุปการชำระเงิน."
+
+#: includes/class-cwut-settings-page.php:504
+msgid "Enable custom back to shop URL"
+msgstr "เปิดใช้งาน ลิงค์กำหนดเองสำหรับกลับไปที่ร้านค้า"
+
+#: includes/class-cwut-settings-page.php:505
+msgid "This option will enable custom back to shop URL on cart page (after add to cart)."
+msgstr "ตัวเลือกนี้ จะเปลี่ยน url สำหรับกลับไปยังร้านค้า เป็น URL ที่เราต้องการ หลังจาก หยิบสินค้าใส่ตระกร้า."
+
+#: includes/class-cwut-settings-page.php:512
+msgid "Custom back to shop URL"
+msgstr "ลิงค์กำหนดเองสำหรับกลับไปที่ร้านค้า"
+
+#: includes/class-cwut-settings-page.php:513
+msgid "Custom back to shop URL when user click back to shop on add to cart page."
+msgstr "ลิงค์กำหนดเองสำหรับกลับไปที่ร้านค้า เมื่อลูกค้าคลิกกลับไปที่ร้านค้า หรือ shopping ต่อในหน้าตระกร้าสินค้า."
+
+#: includes/class-cwut-settings-page.php:517
+msgid "Please put valid url"
+msgstr "โปรดระบุข้อมูลในรูปแบบ URL"
+
+#. Plugin Name of the plugin/theme
+msgid "Craftwork Utilities for Woocommerce"
+msgstr "Craftwork Utilities for Woocommerce"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/craftwork-utilities-for-woocommerce/"
+msgstr "https://wordpress.org/plugins/craftwork-utilities-for-woocommerce/"
+
+#. Description of the plugin/theme
+msgid "A set of woocommerce utilities for increase customer engagement."
+msgstr "ชุดเครื่องมือ เพิ่มความสนใจสินค้า และ เพิ่มยอดขาย ใน Woocommerce."
+
+#. Author of the plugin/theme
+msgid "palagorn.p"
+msgstr "palagorn.p"
+
+#. Author URI of the plugin/theme
+msgid "https://palamike.com"
+msgstr "https://palamike.com"
